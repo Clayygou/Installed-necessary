@@ -7,3 +7,5 @@
 3. Winscp + putty 
 - [putty.exe (the SSH and Telnet client itself)](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - 在winscp中添加putty路径
+4. anaconda
+[清华镜像欢迎你](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
