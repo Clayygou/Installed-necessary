@@ -10,3 +10,5 @@
 - 在winscp中添加putty路径
 4. anaconda
 - [清华镜像欢迎你](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
+5. KMSpico v10.2.0 Portable
+- 激活windows和office
