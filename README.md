@@ -13,3 +13,5 @@
 - [清华镜像欢迎你](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 5. KMSpico v10.2.0 Portable
 - 激活windows和office
+6. latex
+- Texlive + TeXstudio +    (JabRef)(观望状态)
